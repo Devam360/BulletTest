@@ -15,7 +15,7 @@ function setup() {
   bullet.shapeColor = color(0);
 
 
-  wall = createSprite(1500, 200, thickness, height/2)
+  wall = createSprite(1300, 200, thickness, height/2)
 
   
   dam = (0.5*weight*speed*speed)/thickness*thickness*thickness
